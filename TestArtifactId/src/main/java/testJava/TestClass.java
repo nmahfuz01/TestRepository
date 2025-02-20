@@ -16,6 +16,10 @@ public class TestClass{
 	}
 	
 
+	@Test
+	public void b() {
+		System.out.println(" a Main Task ");
+	}
 	
 	
 }
